@@ -4,6 +4,29 @@
 
 Contributions welcome, please send a pull request.
 
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Official Website](#official-website)
+- [Tools](#tools)
+- [Documentation](#documentation)
+- [Articles](#articles)
+- [Tutorials](#tutorials)
+- [Blogs](#blogs)
+- [Community](#community)
+  - [Mailing Lists](#mailing-lists)
+  - [Meetups](#meetups)
+  - [Conferences](#conferences)
+  - [Very Useful Modules](#very-useful-modules)
+  - [SilverStripe 4 Receips](#silverstripe-4-receips)
+- [License](#license)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+
+
 ## Official Website
 * www.silverstripe.org
 
