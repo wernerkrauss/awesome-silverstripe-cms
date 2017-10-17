@@ -20,11 +20,10 @@ Contributions welcome, please send a pull request.
   - [Meetups](#meetups)
   - [Conferences](#conferences)
   - [Very Useful Modules](#very-useful-modules)
-  - [SilverStripe 4 Receips](#silverstripe-4-receips)
+  - [SilverStripe 4 Recipes](#silverstripe-4-recipes)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 
 
 ## Official Website
@@ -43,7 +42,7 @@ Contributions welcome, please send a pull request.
 * [SilverStripe Lessons](https://www.silverstripe.org/learn/lessons/)
 
 ## Blogs
-* [Official SilverStripe Blog](https://www.silverstripe.org/blog/)
+* [Official SilverStripe Blog](https://www.silverstripe.org/blog/) Contributions welcome!
 * [SilverStrip.es](http://www.silverstrip.es) Contributions welcome!
 
 ## Community
@@ -54,16 +53,16 @@ Contributions welcome, please send a pull request.
 ### Mailing Lists
 * [SilverStripe Core Development](https://groups.google.com/forum/#!forum/silverstripe-dev)
   
-### Meetups
+### Meetups 
 * [All SilverStripe related Meetups](https://www.meetup.com/topics/silverstripe/all/)
 
 ### Conferences
 * [European SilverStripe Conference](https://www.stripecon.eu)
-* [New Zealand SilverStripe Conference](https://www.silverstripe.org/community/stripeconnz/)
+* [New Zealand SilverStripe Conference](https://stripecon.nz/)
 
 ### Very Useful Modules
 
-### SilverStripe 4 Receips
+### SilverStripe 4 Recipes
 
 
 ## License
