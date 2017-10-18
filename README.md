@@ -61,6 +61,7 @@ Contributions welcome, please send a pull request.
 * [New Zealand SilverStripe Conference](https://stripecon.nz/)
 
 ### Very Useful Modules
+* [Most used](http://addons.silverstripe.org/add-ons?sort=relative)
 
 ### SilverStripe 4 Recipes
 
