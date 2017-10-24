@@ -70,10 +70,10 @@ Contributions welcome, please send a pull request.
 * [Most used](http://addons.silverstripe.org/add-ons?sort=relative)
 
 ### Development Helpers
-* [https://github.com/lekoala/silverstripe-debugbar/](Debugbar) Shows debugging statistics in your browser
-* [https://github.com/silverleague/silverstripe-ideannotator](IdeAnnotator) Auto-generates class annotations on dev/build
-* [https://github.com/dnadesign/silverstripe-populate](Populate) Populate your database through YAML files 
-* [https://github.com/unclecheese/silverstripe-mock-dataobjects](Mock DataObjects) Allows DataObjects to self-populate intelligently with fake data 
+* [Debugbar](https://github.com/lekoala/silverstripe-debugbar/) Shows debugging statistics in your browser
+* [IdeAnnotator](https://github.com/silverleague/silverstripe-ideannotator) Auto-generates class annotations on dev/build
+* [Populate](https://github.com/dnadesign/silverstripe-populate) Populate your database through YAML files 
+* [Mock DataObjects](https://github.com/unclecheese/silverstripe-mock-dataobjects) Allows DataObjects to self-populate intelligently with fake data 
 
 ### SilverStripe 4 Recipes
 
