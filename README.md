@@ -11,6 +11,7 @@ Contributions welcome, please send a pull request.
 
 - [Official Website](#official-website)
 - [Tools](#tools)
+  - [IDE Plugins](#ide-plugins)
 - [Documentation](#documentation)
 - [Articles](#articles)
 - [Tutorials](#tutorials)
@@ -30,6 +31,9 @@ Contributions welcome, please send a pull request.
 * www.silverstripe.org
 
 ## Tools
+### IDE Plugins
+* [VisualStudio SilverStripe Template Syntax HighligherPlugin](https://marketplace.visualstudio.com/items?itemName=adrian.silverstripe)
+* [Jetbrains / PHPStorm SilverStripe Template Syntax Plugin](https://plugins.jetbrains.com/plugin/7201-silverstripe-template-language-support)
 
 ## Documentation
 * [API Docs](http://api.silverstripe.org/)
