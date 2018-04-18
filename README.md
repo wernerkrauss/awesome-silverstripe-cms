@@ -55,6 +55,7 @@ Contributions welcome, please send a pull request.
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/silverstripe)
 * [SilverStripe User Slack](https://silverstripe-users.slack.com/)
   * [Invitation to SilverStripe User Slack](https://www.silverstripe.org/community/slack-signup)
+* [Forum](https://forum.silverstripe.org/)
   
 ### Mailing Lists
 * [SilverStripe Core Development](https://groups.google.com/forum/#!forum/silverstripe-dev)
@@ -77,6 +78,10 @@ Contributions welcome, please send a pull request.
 
 ### SilverStripe 4 Recipes
 
+## Virtualisation
+
+### Vagrant
+* [Zauberfisch Vagrant Boxes](https://github.com/Zauberfisch/vagrant-boxes) Preconfigured Vagrant boxes for SS3 and SS4
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
