@@ -69,6 +69,8 @@ Contributions welcome, please send a pull request.
 
 ## Very Useful Modules
 * [Most used](http://addons.silverstripe.org/add-ons?sort=relative)
+* [Detailed Module Search](http://ssmods.com)
+
 
 ### Development Helpers
 * [Debugbar](https://github.com/lekoala/silverstripe-debugbar/) Shows debugging statistics in your browser
