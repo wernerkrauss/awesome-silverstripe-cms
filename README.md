@@ -90,9 +90,10 @@ Contributions welcome, please send a pull request.
 ### Vagrant
 
 There is no official box like Laravel has it's homestead box. However, there are a few good boxes out there for Vagrant you could use:
-* Twisted Bytes
-* Laravel Homestead
-* Scotchbox
-
+* [Twisted Bytes](https://www.twistedbytes.nl/en/blog/php-vagrant-box/)
+* [Laravel Homestead](https://github.com/laravel/homestead)
+* [Scotchbox](https://box.scotch.io)
+* [Zauberfisch Vagrant Boxes](https://github.com/Zauberfisch/vagrant-boxes) Preconfigured Vagrant boxes for SS3 and SS4 
+ 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
