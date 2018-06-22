@@ -80,6 +80,7 @@ Contributions welcome, please send a pull request.
 * [Mock DataObjects](https://github.com/unclecheese/silverstripe-mock-dataobjects) Allows DataObjects to self-populate intelligently with fake data 
 
 ### SilverStripe 4 Recipes
+* [SilverStripe Recipes on Packagist](https://packagist.org/packages/silverstripe/recipe-plugin/dependents)
 
 ## Virtualisation
 
