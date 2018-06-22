@@ -68,7 +68,10 @@ Contributions welcome, please send a pull request.
 * [New Zealand SilverStripe Conference](https://stripecon.nz/)
 
 ## Very Useful Modules
-* [Most used](http://addons.silverstripe.org/add-ons?sort=relative)
+* [SS Addons: Themes and Modules](https://addons.silverstripe.org)
+* [SSMods: Detailed Module Search](http://ssmods.com)
+* [Most Used Modules](https://addons.silverstripe.org/add-ons?sort=relative)
+
 
 ### Development Helpers
 * [Debugbar](https://github.com/lekoala/silverstripe-debugbar/) Shows debugging statistics in your browser
