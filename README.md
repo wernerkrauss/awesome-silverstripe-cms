@@ -55,6 +55,7 @@ Contributions welcome, please send a pull request.
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/silverstripe)
 * [SilverStripe User Slack](https://silverstripe-users.slack.com/)
   * [Invitation to SilverStripe User Slack](https://www.silverstripe.org/community/slack-signup)
+  * [Slack Archive](https://slackarchive.silverstripe.org)
 * [Forum](https://forum.silverstripe.org/)
   
 ### Mailing Lists
@@ -83,9 +84,15 @@ Contributions welcome, please send a pull request.
 * [SilverStripe Recipes on Packagist](https://packagist.org/packages/silverstripe/recipe-plugin/dependents)
 
 ## Virtualisation
+* Vagrant
+* Docker
 
 ### Vagrant
-* [Zauberfisch Vagrant Boxes](https://github.com/Zauberfisch/vagrant-boxes) Preconfigured Vagrant boxes for SS3 and SS4
+
+There is no official box like Laravel has it's homestead box. However, there are a few good boxes out there for Vagrant you could use:
+* Twisted Bytes
+* Laravel Homestead
+* Scotchbox
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
