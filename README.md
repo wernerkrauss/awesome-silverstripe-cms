@@ -81,7 +81,7 @@ Contributions welcome, please send a pull request.
 * [Mock DataObjects](https://github.com/unclecheese/silverstripe-mock-dataobjects) Allows DataObjects to self-populate intelligently with fake data
 #### Switching Users as Admin
 * [UserSwitcher](https://github.com/sheadawson/silverstripe-userswitcher) adds a small form both in the frontend and backend to quickly login as any user
-* [Masquerade](https://github.com/dhensby/silverstripe-masquerade)
+* [Masquerade](https://github.com/dhensby/silverstripe-masquerade) allows an Administrator to "login" as another "Member". This can be useful for debugging and remote support.
 
 ### SilverStripe 4 Recipes
 * [SilverStripe Recipes on Packagist](https://packagist.org/packages/silverstripe/recipe-plugin/dependents)
