@@ -78,7 +78,10 @@ Contributions welcome, please send a pull request.
 * [Debugbar](https://github.com/lekoala/silverstripe-debugbar/) Shows debugging statistics in your browser
 * [IdeAnnotator](https://github.com/silverleague/silverstripe-ideannotator) Auto-generates class annotations on dev/build
 * [Populate](https://github.com/dnadesign/silverstripe-populate) Populate your database through YAML files 
-* [Mock DataObjects](https://github.com/unclecheese/silverstripe-mock-dataobjects) Allows DataObjects to self-populate intelligently with fake data 
+* [Mock DataObjects](https://github.com/unclecheese/silverstripe-mock-dataobjects) Allows DataObjects to self-populate intelligently with fake data
+#### Switching Users as Admin
+* [UserSwitcher](https://github.com/sheadawson/silverstripe-userswitcher) adds a small form both in the frontend and backend to quickly login as any user
+* [Masquerade](https://github.com/dhensby/silverstripe-masquerade)
 
 ### SilverStripe 4 Recipes
 * [SilverStripe Recipes on Packagist](https://packagist.org/packages/silverstripe/recipe-plugin/dependents)
