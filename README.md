@@ -57,10 +57,7 @@ Contributions welcome, please send a pull request.
   * [Invitation to SilverStripe User Slack](https://www.silverstripe.org/community/slack-signup)
   * [Slack Archive](https://slackarchive.silverstripe.org)
 * [Forum](https://forum.silverstripe.org/)
-  
-### Mailing Lists
-* [SilverStripe Core Development](https://groups.google.com/forum/#!forum/silverstripe-dev)
-  
+    
 ### Meetups 
 * [All SilverStripe related Meetups](https://www.meetup.com/topics/silverstripe/all/)
 
