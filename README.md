@@ -95,6 +95,14 @@ There is no official box like Laravel has it's homestead box. However, there are
 * [Laravel Homestead](https://github.com/laravel/homestead)
 * [Scotchbox](https://box.scotch.io)
 * [Zauberfisch Vagrant Boxes](https://github.com/Zauberfisch/vagrant-boxes) Preconfigured Vagrant boxes for SS3 and SS4 
+
+### Docker
+
+A number of Docker images exist which can be used for production or development purposes:
+* [webdevops/php-apache](http://dockerfile.readthedocs.io/en/latest/content/DockerImages/dockerfiles/php-apache.html) - The latest tag (7.2) contains the full Apache / PHP stack and will run SS4
+* [webdevops/php-apache-dev](http://dockerfile.readthedocs.io/en/latest/content/DockerImages/dockerfiles/php-apache-dev.html) - As above but a development version
+* [mariadb](https://hub.docker.com/_/mariadb/) - MariaDB image - runs well with all SilverStripe versions
+
  
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
