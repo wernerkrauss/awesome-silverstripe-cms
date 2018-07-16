@@ -70,6 +70,7 @@ Contributions welcome, please send a pull request.
 * [SSMods: Detailed Module Search](http://ssmods.com)
 * [Most Used Modules](https://addons.silverstripe.org/add-ons?sort=relative)
 
+* [Multiuser editing alert](https://github.com/silverstripe/silverstripe-multiuser-editing-alert) Alerts users in the SilverStripe CMS when multiple people are editing the same page
 
 ### Development Helpers
 * [Debugbar](https://github.com/lekoala/silverstripe-debugbar/) Shows debugging statistics in your browser
