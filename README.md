@@ -17,12 +17,14 @@ Contributions welcome, please send a pull request.
 - [Tutorials](#tutorials)
 - [Blogs](#blogs)
 - [Community](#community)
-  - [Mailing Lists](#mailing-lists)
   - [Meetups](#meetups)
   - [Conferences](#conferences)
 - [Very Useful Modules](#very-useful-modules)
+  - [Site Search](#site-search)
   - [Development Helpers](#development-helpers)
   - [SilverStripe 4 Recipes](#silverstripe-4-recipes)
+- [Virtualisation](#virtualisation)
+  - [Vagrant](#vagrant)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -72,6 +74,12 @@ Contributions welcome, please send a pull request.
 
 * [Multiuser editing alert](https://github.com/silverstripe/silverstripe-multiuser-editing-alert) Alerts users in the SilverStripe CMS when multiple people are editing the same page
 
+### Site Search
+* [Fulltext Search](https://github.com/silverstripe/silverstripe-fulltextsearch) Full fledged search interface for search backends like SOLR or elastic search.
+* [Fulltext Search Local SOLR](https://addons.silverstripe.org/add-ons/silverstripe/fulltextsearch-localsolr) easy to install SOLR instance for local development
+* [SilverStripe Searchable](https://github.com/i-lateral/silverstripe-searchable) Adds more complex site searching using the SilverStripe ORM. With dedicated templates for search results across multiple search objects.
+* [Searchable DataObjects](https://github.com/g4b0/silverstripe-searchable-dataobjects) Fast and simple MySQL based search. Useful for single language sites
+
 ### Development Helpers
 * [Debugbar](https://github.com/lekoala/silverstripe-debugbar/) Shows debugging statistics in your browser
 * [IdeAnnotator](https://github.com/silverleague/silverstripe-ideannotator) Auto-generates class annotations on dev/build
@@ -85,8 +93,6 @@ Contributions welcome, please send a pull request.
 * [SilverStripe Recipes on Packagist](https://packagist.org/packages/silverstripe/recipe-plugin/dependents)
 
 ## Virtualisation
-* Vagrant
-* Docker
 
 ### Vagrant
 
