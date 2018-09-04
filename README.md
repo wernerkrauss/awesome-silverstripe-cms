@@ -59,8 +59,8 @@ Contributions welcome, please send a pull request.
   * [Invitation to SilverStripe User Slack](https://www.silverstripe.org/community/slack-signup)
   * [Slack Archive](https://slackarchive.silverstripe.org)
 * [Forum](https://forum.silverstripe.org/)
-    
-### Meetups 
+
+### Meetups
 * [All SilverStripe related Meetups](https://www.meetup.com/topics/silverstripe/all/)
 
 ### Conferences
@@ -73,6 +73,7 @@ Contributions welcome, please send a pull request.
 * [Most Used Modules](https://addons.silverstripe.org/add-ons?sort=relative)
 
 * [Multiuser editing alert](https://github.com/silverstripe/silverstripe-multiuser-editing-alert) Alerts users in the SilverStripe CMS when multiple people are editing the same page
+* [Markdown editor for cms](https://addons.silverstripe.org/add-ons/silverstripers/markdown) Adds a Markdown database field and form field editor to the SilverStripe cms.
 
 ### Site Search
 * [Fulltext Search](https://github.com/silverstripe/silverstripe-fulltextsearch) Full fledged search interface for search backends like SOLR or elastic search.
@@ -83,7 +84,7 @@ Contributions welcome, please send a pull request.
 ### Development Helpers
 * [Debugbar](https://github.com/lekoala/silverstripe-debugbar/) Shows debugging statistics in your browser
 * [IdeAnnotator](https://github.com/silverleague/silverstripe-ideannotator) Auto-generates class annotations on dev/build
-* [Populate](https://github.com/dnadesign/silverstripe-populate) Populate your database through YAML files 
+* [Populate](https://github.com/dnadesign/silverstripe-populate) Populate your database through YAML files
 * [Mock DataObjects](https://github.com/unclecheese/silverstripe-mock-dataobjects) Allows DataObjects to self-populate intelligently with fake data
 #### Switching Users as Admin
 * [UserSwitcher](https://github.com/sheadawson/silverstripe-userswitcher) adds a small form both in the frontend and backend to quickly login as any user
@@ -100,7 +101,7 @@ There is no official box like Laravel has it's homestead box. However, there are
 * [Twisted Bytes](https://www.twistedbytes.nl/en/blog/php-vagrant-box/)
 * [Laravel Homestead](https://github.com/laravel/homestead)
 * [Scotchbox](https://box.scotch.io)
-* [Zauberfisch Vagrant Boxes](https://github.com/Zauberfisch/vagrant-boxes) Preconfigured Vagrant boxes for SS3 and SS4 
- 
+* [Zauberfisch Vagrant Boxes](https://github.com/Zauberfisch/vagrant-boxes) Preconfigured Vagrant boxes for SS3 and SS4
+
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
