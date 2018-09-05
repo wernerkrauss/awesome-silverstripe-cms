@@ -27,3 +27,11 @@ npm install -g doctoc
 ```
 doctoc README.md
 ```
+
+### Pre-commit hook
+
+You can copy the pre-commit hook over so that it will generate the TOC on commit:
+
+```
+cp pre-commit.sh .git/hooks/pre-commit
+```
