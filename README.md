@@ -23,6 +23,7 @@ Contributions welcome, please send a pull request.
   - [Site Search](#site-search)
   - [Development Helpers](#development-helpers)
   - [SilverStripe 4 Recipes](#silverstripe-4-recipes)
+  - [Fancy Form Fields](#fancy-form-fields)
 - [Virtualisation](#virtualisation)
   - [Vagrant](#vagrant)
 - [License](#license)
