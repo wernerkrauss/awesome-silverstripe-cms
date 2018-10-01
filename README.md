@@ -23,6 +23,7 @@ Contributions welcome, please send a pull request.
   - [Site Search](#site-search)
   - [Development Helpers](#development-helpers)
   - [SilverStripe 4 Recipes](#silverstripe-4-recipes)
+  - [Fancy Form Fields](#fancy-form-fields)
 - [Virtualisation](#virtualisation)
   - [Vagrant](#vagrant)
 - [License](#license)
@@ -91,6 +92,10 @@ Contributions welcome, please send a pull request.
 
 ### SilverStripe 4 Recipes
 * [SilverStripe Recipes on Packagist](https://packagist.org/packages/silverstripe/recipe-plugin/dependents)
+
+### Fancy Form Fields
+* [Markdown Field](https://github.com/SilverStripers/markdownfield) can replace your HTMLEditorFields (using TinyMCE) so you can utilise Markdown syntax
+* [Code Editor Field](https://github.com/nathancox/silverstripe-codeeditorfield) gives you a syntax-highlighted text area field - great for CMS-based YAML or HTML
 
 ## Virtualisation
 
