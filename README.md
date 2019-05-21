@@ -20,7 +20,7 @@ Contributions welcome, please send a pull request.
   - [Meetups](#meetups)
   - [Conferences](#conferences)
 - [Very Useful Modules](#very-useful-modules)
-  - [I18N (Internationalisation)](i18n-internationalisation)
+  - [I18N (Internationalisation)](#i18n-internationalisation)
   - [Site Search](#site-search)
   - [Development Helpers](#development-helpers)
   - [SilverStripe 4 Recipes](#silverstripe-4-recipes)
