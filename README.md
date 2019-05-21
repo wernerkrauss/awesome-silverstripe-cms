@@ -20,6 +20,7 @@ Contributions welcome, please send a pull request.
   - [Meetups](#meetups)
   - [Conferences](#conferences)
 - [Very Useful Modules](#very-useful-modules)
+  - [I18N (Internationalisation)](i18n-internationalisation)
   - [Site Search](#site-search)
   - [Development Helpers](#development-helpers)
   - [SilverStripe 4 Recipes](#silverstripe-4-recipes)
@@ -74,6 +75,10 @@ Contributions welcome, please send a pull request.
 * [Most Used Modules](https://addons.silverstripe.org/add-ons?sort=relative)
 
 * [Multiuser editing alert](https://github.com/silverstripe/silverstripe-multiuser-editing-alert) Alerts users in the SilverStripe CMS when multiple people are editing the same page
+
+### I18N (Internationalisation)
+* [Fluent](https://github.com/tractorcow-farm/silverstripe-fluent): Multi-language translate module for Silverstripe, without having to manage separate site trees
+* [Autotranslate](https://github.com/bratiask/silverstripe-autotranslate): creates automatic translations of fields using Google Translate API
 
 ### Site Search
 * [Fulltext Search](https://github.com/silverstripe/silverstripe-fulltextsearch) Full fledged search interface for search backends like SOLR or elastic search.
