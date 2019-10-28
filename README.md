@@ -23,10 +23,12 @@ Contributions welcome, please send a pull request.
   - [I18N (Internationalisation)](#i18n-internationalisation)
   - [Site Search](#site-search)
   - [Development Helpers](#development-helpers)
+    - [Switching Users as Admin](#switching-users-as-admin)
   - [SilverStripe 4 Recipes](#silverstripe-4-recipes)
   - [Fancy Form Fields](#fancy-form-fields)
 - [Virtualisation](#virtualisation)
   - [Vagrant](#vagrant)
+  - [Docker](#docker)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -111,6 +113,12 @@ There is no official box like Laravel has it's homestead box. However, there are
 * [Laravel Homestead](https://github.com/laravel/homestead)
 * [Scotchbox](https://box.scotch.io)
 * [Zauberfisch Vagrant Boxes](https://github.com/Zauberfisch/vagrant-boxes) Preconfigured Vagrant boxes for SS3 and SS4 
- 
+
+### Docker
+
+* [brettt89/silverstripe-web](https://hub.docker.com/r/brettt89/silverstripe-web) Apache + PHP Docker image with pre-installed PHP modules for SilverStripe support.
+* [brettt89/sspak](https://hub.docker.com/r/brettt89/sspak) SSPAK Docker image
+* [brettt89/silverstripe-solr-cwp](https://hub.docker.com/r/brettt89/silverstripe-solr-cwp) CWP Solr Docker image
+
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
