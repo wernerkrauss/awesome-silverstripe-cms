@@ -9,13 +9,14 @@ Contributions welcome, please send a pull request.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Official Website](#official-websites)
+- [Official Websites](#official-websites)
 - [Tools](#tools)
   - [IDE Plugins](#ide-plugins)
 - [Documentation](#documentation)
 - [Articles](#articles)
 - [Tutorials](#tutorials)
 - [Blogs](#blogs)
+- [Channels](#channels)
 - [Community](#community)
   - [Meetups](#meetups)
   - [Conferences](#conferences)
@@ -56,6 +57,10 @@ Contributions welcome, please send a pull request.
 ## Blogs
 * [Official SilverStripe Blog](https://www.silverstripe.org/blog/) Contributions welcome!
 * [SilverStrip.es](http://www.silverstrip.es) Contributions welcome!
+
+## Channels
+* [Official StripeCon Youtube Channel](https://www.youtube.com/channel/UC38vU3H_UrdGFnc3vTJiORA)
+* [Official Silverstripe Vimeo Channel](https://vimeo.com/silverstripe)
 
 ## Community
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/silverstripe)
