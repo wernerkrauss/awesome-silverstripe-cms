@@ -9,7 +9,7 @@ Contributions welcome, please send a pull request.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Official Website](#official-website)
+- [Official Website](#official-websites)
 - [Tools](#tools)
   - [IDE Plugins](#ide-plugins)
 - [Documentation](#documentation)
@@ -23,6 +23,7 @@ Contributions welcome, please send a pull request.
   - [I18N (Internationalisation)](#i18n-internationalisation)
   - [Site Search](#site-search)
   - [Development Helpers](#development-helpers)
+    - [Switching Users as Admin](#switching-users-as-admin)
   - [SilverStripe 4 Recipes](#silverstripe-4-recipes)
   - [Fancy Form Fields](#fancy-form-fields)
 - [Virtualisation](#virtualisation)
@@ -32,8 +33,9 @@ Contributions welcome, please send a pull request.
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
-## Official Website
-* www.silverstripe.org
+## Official Websites
+* www.silverstripe.org (Framework and CMS)
+* www.silverstripe.com (Company)
 
 ## Tools
 ### IDE Plugins
