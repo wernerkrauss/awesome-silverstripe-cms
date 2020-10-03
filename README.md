@@ -1,6 +1,6 @@
 # awesome-silverstripe [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Useful resources for SilverStripe Framework and CMS
+> Useful resources for Silverstripe Framework and CMS
 
 Contributions welcome, please send a pull request.
 
@@ -9,13 +9,14 @@ Contributions welcome, please send a pull request.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Official Website](#official-website)
+- [Official Websites](#official-websites)
 - [Tools](#tools)
   - [IDE Plugins](#ide-plugins)
 - [Documentation](#documentation)
 - [Articles](#articles)
 - [Tutorials](#tutorials)
 - [Blogs](#blogs)
+- [Channels](#channels)
 - [Community](#community)
   - [Meetups](#meetups)
   - [Conferences](#conferences)
@@ -23,7 +24,8 @@ Contributions welcome, please send a pull request.
   - [I18N (Internationalisation)](#i18n-internationalisation)
   - [Site Search](#site-search)
   - [Development Helpers](#development-helpers)
-  - [SilverStripe 4 Recipes](#silverstripe-4-recipes)
+    - [Switching Users as Admin](#switching-users-as-admin)
+  - [Silverstripe 4 Recipes](#silverstripe-4-recipes)
   - [Fancy Form Fields](#fancy-form-fields)
 - [Virtualisation](#virtualisation)
   - [Vagrant](#vagrant)
@@ -32,13 +34,14 @@ Contributions welcome, please send a pull request.
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
-## Official Website
-* www.silverstripe.org
+## Official Websites
+* www.silverstripe.org (Framework and CMS)
+* www.silverstripe.com (Company)
 
 ## Tools
 ### IDE Plugins
-* [VisualStudio SilverStripe Template Syntax HighligherPlugin](https://marketplace.visualstudio.com/items?itemName=adrian.silverstripe)
-* [Jetbrains / PHPStorm SilverStripe Template Syntax Plugin](https://plugins.jetbrains.com/plugin/7201-silverstripe-template-language-support)
+* [VisualStudio Silverstripe Template Syntax HighligherPlugin](https://marketplace.visualstudio.com/items?itemName=adrian.silverstripe)
+* [Jetbrains / PHPStorm Silverstripe Template Syntax Plugin](https://plugins.jetbrains.com/plugin/7201-silverstripe-template-language-support)
 
 ## Documentation
 * [API Docs](http://api.silverstripe.org/)
@@ -49,32 +52,36 @@ Contributions welcome, please send a pull request.
 ## Articles
 
 ## Tutorials
-* [SilverStripe Lessons](https://www.silverstripe.org/learn/lessons/)
+* [Silverstripe Lessons](https://www.silverstripe.org/learn/lessons/)
 
 ## Blogs
-* [Official SilverStripe Blog](https://www.silverstripe.org/blog/) Contributions welcome!
+* [Official Silverstripe Blog](https://www.silverstripe.org/blog/) Contributions welcome!
 * [SilverStrip.es](http://www.silverstrip.es) Contributions welcome!
+
+## Channels
+* [Official StripeCon Youtube Channel](https://www.youtube.com/channel/UC38vU3H_UrdGFnc3vTJiORA)
+* [Official Silverstripe Vimeo Channel](https://vimeo.com/silverstripe)
 
 ## Community
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/silverstripe)
-* [SilverStripe User Slack](https://silverstripe-users.slack.com/)
-  * [Invitation to SilverStripe User Slack](https://www.silverstripe.org/community/slack-signup)
+* [Silverstripe User Slack](https://silverstripe-users.slack.com/)
+  * [Invitation to Silverstripe User Slack](https://www.silverstripe.org/community/slack-signup)
   * [Slack Archive](https://slackarchive.silverstripe.org)
 * [Forum](https://forum.silverstripe.org/)
     
 ### Meetups 
-* [All SilverStripe related Meetups](https://www.meetup.com/topics/silverstripe/all/)
+* [All Silverstripe related Meetups](https://www.meetup.com/topics/silverstripe/all/)
 
 ### Conferences
-* [European SilverStripe Conference](https://www.stripecon.eu)
-* [New Zealand SilverStripe Conference](https://stripecon.nz/)
+* [European Silverstripe Conference](https://www.stripecon.eu)
+* [New Zealand Silverstripe Conference](https://stripecon.nz/)
 
 ## Very Useful Modules
 * [SS Addons: Themes and Modules](https://addons.silverstripe.org)
 * [SSMods: Detailed Module Search](http://ssmods.com)
 * [Most Used Modules](https://addons.silverstripe.org/add-ons?sort=relative)
 
-* [Multiuser editing alert](https://github.com/silverstripe/silverstripe-multiuser-editing-alert) Alerts users in the SilverStripe CMS when multiple people are editing the same page
+* [Multiuser editing alert](https://github.com/silverstripe/silverstripe-multiuser-editing-alert) Alerts users in the Silverstripe CMS when multiple people are editing the same page
 
 ### I18N (Internationalisation)
 * [Fluent](https://github.com/tractorcow-farm/silverstripe-fluent): Multi-language translate module for Silverstripe, without having to manage separate site trees
@@ -83,7 +90,7 @@ Contributions welcome, please send a pull request.
 ### Site Search
 * [Fulltext Search](https://github.com/silverstripe/silverstripe-fulltextsearch) Full fledged search interface for search backends like SOLR or elastic search.
 * [Fulltext Search Local SOLR](https://addons.silverstripe.org/add-ons/silverstripe/fulltextsearch-localsolr) easy to install SOLR instance for local development
-* [SilverStripe Searchable](https://github.com/i-lateral/silverstripe-searchable) Adds more complex site searching using the SilverStripe ORM. With dedicated templates for search results across multiple search objects.
+* [Silverstripe Searchable](https://github.com/i-lateral/silverstripe-searchable) Adds more complex site searching using the Silverstripe ORM. With dedicated templates for search results across multiple search objects.
 * [Searchable DataObjects](https://github.com/g4b0/silverstripe-searchable-dataobjects) Fast and simple MySQL based search. Useful for single language sites
 
 ### Development Helpers
@@ -95,11 +102,11 @@ Contributions welcome, please send a pull request.
 * [UserSwitcher](https://github.com/sheadawson/silverstripe-userswitcher) adds a small form both in the frontend and backend to quickly login as any user
 * [Masquerade](https://github.com/dhensby/silverstripe-masquerade) allows an Administrator to "login" as another "Member". This can be useful for debugging and remote support.
 
-### SilverStripe 4 Recipes
-* [SilverStripe Recipes on Packagist](https://packagist.org/packages/silverstripe/recipe-plugin/dependents)
+### Silverstripe 4 Recipes
+* [Silverstripe Recipes on Packagist](https://packagist.org/packages/silverstripe/recipe-plugin/dependents)
 
 ### Fancy Form Fields
-* [Markdown Field](https://github.com/SilverStripers/markdownfield) can replace your HTMLEditorFields (using TinyMCE) so you can utilise Markdown syntax
+* [Markdown Field](https://github.com/Silverstripers/markdownfield) can replace your HTMLEditorFields (using TinyMCE) so you can utilise Markdown syntax
 * [Code Editor Field](https://github.com/nathancox/silverstripe-codeeditorfield) gives you a syntax-highlighted text area field - great for CMS-based YAML or HTML
 
 ## Virtualisation
