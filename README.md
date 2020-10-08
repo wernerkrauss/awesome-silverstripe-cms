@@ -21,7 +21,7 @@ Contributions welcome, please send a pull request or open an issue to start a di
 - [Blogs](#blogs)
 - [Channels](#channels)
 - [Community](#community)
-  - [Conferences and Meetups](#conferences-and-meetups)
+  - [Conferences & Meetups](#conferences--meetups)
 - [Very Useful Modules](#very-useful-modules)
   - [I18N (Internationalisation)](#i18n-internationalisation)
   - [Site Search](#site-search)
@@ -69,7 +69,7 @@ Contributions welcome, please send a pull request or open an issue to start a di
   - [Slack Archive](https://slackarchive.silverstripe.org)
 - [Forum](https://forum.silverstripe.org/) - Official forum for asking questions or discussing.
 
-### Conferences and Meetups
+### Conferences & Meetups
 - [European Silverstripe Conference](https://www.stripecon.eu) - Every year in another country.
 - [New Zealand Silverstripe Conference](https://stripecon.nz/) - Silverstripe conference for the asia pacific region.
 - [Meetups](https://www.meetup.com/topics/silverstripe/all/) - A list of Silverstripe related Meetups.
@@ -97,8 +97,6 @@ Contributions welcome, please send a pull request or open an issue to start a di
 - [Populate](https://github.com/dnadesign/silverstripe-populate) -  Populate your database through YAML files.
 - [Mock DataObjects](https://github.com/unclecheese/silverstripe-mock-dataobjects) -  Allows DataObjects to self-populate intelligently with fake data.
 - [Version Truncator](https://github.com/axllent/silverstripe-version-truncator) - Automatically delete old SiteTree page versions.
-
-#### Switching Users as Admin
 - [UserSwitcher](https://github.com/sheadawson/silverstripe-userswitcher) - Adds a small form both in the frontend and backend to quickly login as any user.
 - [Masquerade](https://github.com/dhensby/silverstripe-masquerade) -  Allows an Administrator to "login" as another "Member". This can be useful for debugging and remote support.
 
