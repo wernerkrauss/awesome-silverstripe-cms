@@ -5,7 +5,7 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 ## Adding something to the list
 
 1. Update README.md adding your contribution.
-2. Update the Table of Contents by running `npx doctoc README.md`
+2. Update the Table of Contents by running `npx doctoc --no-title README.md`
 2. Run `npx awesome-lint` to make sure it has no issues.
 3. Open a PR with your changes.
 
