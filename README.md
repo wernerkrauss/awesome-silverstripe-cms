@@ -101,6 +101,7 @@ Contributions welcome, please send a pull request or open an issue to start a di
 - [IdeAnnotator](https://github.com/silverleague/silverstripe-ideannotator) -  Auto-generates class annotations on dev/build.
 - [Populate](https://github.com/dnadesign/silverstripe-populate) -  Populate your database through YAML files.
 - [Mock DataObjects](https://github.com/unclecheese/silverstripe-mock-dataobjects) -  Allows DataObjects to self-populate intelligently with fake data.
+- [Version Truncator](https://github.com/axllent/silverstripe-version-truncator) - Automatically delete old SiteTree page versions.
 
 #### Switching Users as Admin
 - [UserSwitcher](https://github.com/sheadawson/silverstripe-userswitcher) - Adds a small form both in the frontend and backend to quickly login as any user.
