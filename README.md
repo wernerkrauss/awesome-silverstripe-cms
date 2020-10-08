@@ -17,7 +17,6 @@ Contributions welcome, please send a pull request or open an issue to start a di
 - [Tools](#tools)
   - [IDE Plugins](#ide-plugins)
 - [Documentation](#documentation)
-- [Articles](#articles)
 - [Tutorials](#tutorials)
 - [Blogs](#blogs)
 - [Channels](#channels)
@@ -51,8 +50,6 @@ Contributions welcome, please send a pull request or open an issue to start a di
 - [Technical Documentation](http://doc.silverstripe.org/framework/en/) - For developers. Explains all core concepts.
 - [Using the CMS](http://userhelp.silverstripe.org/) - Documentation for end users how to use the core features.
 - [TinyMCE Configuration Examples For SS3](https://github.com/jonom/silverstripe-tinytidy)
-
-## Articles
 
 ## Tutorials
 - [Silverstripe Lessons](https://www.silverstripe.org/learn/lessons/) - Learn how to build a Silverstripe site step by step with a real-world project.
