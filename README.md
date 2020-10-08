@@ -72,17 +72,15 @@ Contributions welcome, please send a pull request or open an issue to start a di
   - [Slack Archive](https://slackarchive.silverstripe.org)
 - [Forum](https://forum.silverstripe.org/) - Official forum for asking questions or discussing.
 
-
 ### Conferences and Meetups
 - [European Silverstripe Conference](https://www.stripecon.eu) - Every year in another country.
 - [New Zealand Silverstripe Conference](https://stripecon.nz/) - Silverstripe conference for the asia pacific region.
-- [All Silverstripe related Meetups](https://www.meetup.com/topics/silverstripe/all/)
+- [Meetups](https://www.meetup.com/topics/silverstripe/all/) - A list of Silverstripe related Meetups.
 
 ## Very Useful Modules
 - [SS Addons: Themes and Modules](https://addons.silverstripe.org) - The official module registry.
 - [SSMods: Detailed Module Search](http://ssmods.com) - Alternative module search.
 - [Most Used Modules](https://addons.silverstripe.org/add-ons?sort=relative) - Shows which modules are downloaded most.
-
 - [Multiuser editing alert](https://github.com/silverstripe/silverstripe-multiuser-editing-alert) -  Alerts users in the Silverstripe CMS when multiple people are editing the same page.
 
 ### I18N (Internationalisation)
