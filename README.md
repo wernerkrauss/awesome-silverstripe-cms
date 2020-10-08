@@ -1,4 +1,4 @@
-# awesome-silverstripe [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Silverstripe CMS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Useful resources for Silverstripe Framework and CMS
 
@@ -7,7 +7,7 @@ Contributions welcome, please send a pull request.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+**Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Official Websites](#official-websites)
 - [Tools](#tools)
@@ -24,7 +24,6 @@ Contributions welcome, please send a pull request.
   - [I18N (Internationalisation)](#i18n-internationalisation)
   - [Site Search](#site-search)
   - [Development Helpers](#development-helpers)
-    - [Switching Users as Admin](#switching-users-as-admin)
   - [Silverstripe 4 Recipes](#silverstripe-4-recipes)
   - [Fancy Form Fields](#fancy-form-fields)
 - [Virtualisation](#virtualisation)
