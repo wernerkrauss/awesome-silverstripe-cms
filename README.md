@@ -25,7 +25,6 @@ Contributions welcome, please send a pull request.
   - [I18N (Internationalisation)](#i18n-internationalisation)
   - [Site Search](#site-search)
   - [Development Helpers](#development-helpers)
-    - [Switching Users as Admin](#switching-users-as-admin)
   - [Silverstripe 4 Recipes](#silverstripe-4-recipes)
   - [Fancy Form Fields](#fancy-form-fields)
 - [Virtualisation](#virtualisation)
