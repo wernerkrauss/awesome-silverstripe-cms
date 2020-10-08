@@ -30,7 +30,6 @@ Contributions welcome, please send a pull request.
 - [Virtualisation](#virtualisation)
   - [Vagrant](#vagrant)
   - [Docker](#docker)
-- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -125,6 +124,3 @@ There is no official box like Laravel has it's homestead box. However, there are
 - [brettt89/silverstripe-web](https://hub.docker.com/r/brettt89/silverstripe-web) Apache + PHP Docker image with pre-installed PHP modules for SilverStripe support.
 - [brettt89/sspak](https://hub.docker.com/r/brettt89/sspak) SSPAK Docker image
 - [brettt89/silverstripe-solr-cwp](https://hub.docker.com/r/brettt89/silverstripe-solr-cwp) CWP Solr Docker image
-
-## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
