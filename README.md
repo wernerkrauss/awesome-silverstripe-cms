@@ -22,8 +22,7 @@ Contributions welcome, please send a pull request or open an issue to start a di
 - [Blogs](#blogs)
 - [Channels](#channels)
 - [Community](#community)
-  - [Meetups](#meetups)
-  - [Conferences](#conferences)
+  - [Conferences and Meetups](#conferences-and-meetups)
 - [Very Useful Modules](#very-useful-modules)
   - [I18N (Internationalisation)](#i18n-internationalisation)
   - [Site Search](#site-search)
@@ -73,13 +72,11 @@ Contributions welcome, please send a pull request or open an issue to start a di
   - [Slack Archive](https://slackarchive.silverstripe.org)
 - [Forum](https://forum.silverstripe.org/) - Official forum for asking questions or discussing.
 
-    
-### Meetups 
-- [All Silverstripe related Meetups](https://www.meetup.com/topics/silverstripe/all/)
 
-### Conferences
+### Conferences and Meetups
 - [European Silverstripe Conference](https://www.stripecon.eu) - Every year in another country.
 - [New Zealand Silverstripe Conference](https://stripecon.nz/) - Silverstripe conference for the asia pacific region.
+- [All Silverstripe related Meetups](https://www.meetup.com/topics/silverstripe/all/)
 
 ## Very Useful Modules
 - [SS Addons: Themes and Modules](https://addons.silverstripe.org) - The official module registry.
