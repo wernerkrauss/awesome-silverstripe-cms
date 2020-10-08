@@ -116,9 +116,10 @@ Contributions welcome, please send a pull request.
 ### Vagrant
 
 There is no official box like Laravel has it's homestead box. However, there are a few good boxes out there for Vagrant you could use:
-- [Twisted Bytes](https://www.twistedbytes.nl/en/blog/php-vagrant-box/)
-- [Laravel Homestead](https://github.com/laravel/homestead)
-- [Scotchbox](https://box.scotch.io)
+- [Twisted Bytes](https://www.twistedbytes.nl/en/blog/php-vagrant-box/) - Useful vagrant box with multiple PHP versions, MariaDB or PostgreSQL, mail cacher and much more.
+- [Twisted Bytes Box Templates](https://derkbox.com) - Useful templates for different development scenarios using the Twisted Bytes vagrant box.
+- [Laravel Homestead](https://github.com/laravel/homestead) - Prepackaged box for local development.
+- [Scotchbox](https://box.scotch.io) - Popular LAMP/LEMP stack for local development.
 - [Zauberfisch Vagrant Boxes](https://github.com/Zauberfisch/vagrant-boxes) -  Preconfigured Vagrant boxes for SS3 and SS4.
 
 ### Docker
