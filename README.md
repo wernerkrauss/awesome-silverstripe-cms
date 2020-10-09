@@ -44,6 +44,7 @@ Outdated items can be found in the [archive](ARCHIVE.md).
 
 ## Tools
 - [SSPak](https://github.com/silverstripe/sspak) - Tool for managing bundles of db/assets from Silverstripe environments.
+- [SSPy](https://github.com/Firesphere/silverstripe-sspy) - Python version of SSPak, that can handle larger assets. SSPak supports up to 2GB, SSPy has no limit. It is however, less easy to install and set-up.
 
 ### IDE Plugins
 - [VSCode Silverstripe](https://marketplace.visualstudio.com/items?itemName=adrian.silverstripe) - Syntax highlighting for Silverstripe template files in VSCode.
