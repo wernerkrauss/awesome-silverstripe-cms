@@ -7,6 +7,8 @@ Following the "Active Record" design pattern, you can easily extend the built in
 
 Contributions welcome, please send a pull request or open an issue to start a discussion.
 
+Outdated items can be found in the [archive](ARCHIVE.md).
+
 ## Contents
 <!-- PLEASE USE `doctoc --maxlevel 3 README.md` TO KEEP THE TOC TO AN APPROPRIATE SIZE -->
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -69,7 +71,6 @@ Contributions welcome, please send a pull request or open an issue to start a di
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/silverstripe) - Silverstripe related questions on Stack Overflow.
 - [Silverstripe User Slack](https://silverstripe-users.slack.com/) - Community slack channel for instant help or hanging around with other developers.
   - [Invitation to Silverstripe User Slack](https://www.silverstripe.org/community/slack-signup)
-  - [Slack Archive](https://slackarchive.silverstripe.org)
 - [Forum](https://forum.silverstripe.org/) - Official forum for asking questions or discussing.
 
 ### Conferences & Meetups
