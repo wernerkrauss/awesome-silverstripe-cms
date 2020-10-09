@@ -75,7 +75,6 @@ Outdated items can be found in the [archive](ARCHIVE.md).
 
 ### Conferences & Meetups
 - [European Silverstripe Conference](https://www.stripecon.eu) - Every year in another country.
-- [New Zealand Silverstripe Conference](https://stripecon.nz/) - Silverstripe conference for the asia pacific region.
 - [Meetups](https://www.meetup.com/topics/silverstripe/all/) - A list of Silverstripe related Meetups.
 
 ## Very Useful Modules
@@ -107,8 +106,6 @@ Outdated items can be found in the [archive](ARCHIVE.md).
 - [Version Truncator](https://github.com/axllent/silverstripe-version-truncator) - Automatically delete old SiteTree page versions.
 - [UserSwitcher](https://github.com/sheadawson/silverstripe-userswitcher) - Adds a small form both in the frontend and backend to quickly login as any user.
 - [Masquerade](https://github.com/dhensby/silverstripe-masquerade) -  Allows an Administrator to "login" as another "Member". This can be useful for debugging and remote support.
-
-
 
 ### Fancy Form Fields
 - [Markdown Field](https://github.com/Silverstripers/markdownfield) -  Can replace your HTMLEditorFields (using TinyMCE) so you can utilise Markdown syntax.

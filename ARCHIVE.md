@@ -16,4 +16,5 @@ SS3 only modules and resources will be moved here when SS3 is officially reached
 
 ## Community
 - [Slack Archive](https://slackarchive.silverstripe.org) - Archive of public slack channels. Doesn't work anymore due to API changes.
-  
+### Conferences & Meetups
+- [New Zealand Silverstripe Conference](https://stripecon.nz/) - Silverstripe conference for the asia pacific region.
