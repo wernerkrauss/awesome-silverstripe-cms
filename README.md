@@ -23,10 +23,11 @@ Contributions welcome, please send a pull request or open an issue to start a di
 - [Community](#community)
   - [Conferences & Meetups](#conferences--meetups)
 - [Very Useful Modules](#very-useful-modules)
+  - [Silverstripe 4 Recipes](#silverstripe-4-recipes)
+  - [General Modules](#general-modules)
   - [I18N (Internationalisation)](#i18n-internationalisation)
   - [Site Search](#site-search)
   - [Development Helpers](#development-helpers)
-  - [Silverstripe 4 Recipes](#silverstripe-4-recipes)
   - [Fancy Form Fields](#fancy-form-fields)
 - [Virtualisation](#virtualisation)
   - [Vagrant](#vagrant)
@@ -40,6 +41,8 @@ Contributions welcome, please send a pull request or open an issue to start a di
 - [www.silverstripe.com](https://www.silverstripe.com) - Silverstripe Ltd., the company behind the CMS.
 
 ## Tools
+- [SSPak](https://github.com/silverstripe/sspak) - Tool for managing bundles of db/assets from Silverstripe environments.
+
 ### IDE Plugins
 - [VSCode Silverstripe](https://marketplace.visualstudio.com/items?itemName=adrian.silverstripe) - Syntax highlighting for Silverstripe template files in VSCode.
 - [Jetbrains / PHPStorm Silverstripe Template Language Support](https://plugins.jetbrains.com/plugin/7201-silverstripe-template-language-support) - Syntax highlighting for Silverstripe template files in PHPStorm.
@@ -78,6 +81,11 @@ Contributions welcome, please send a pull request or open an issue to start a di
 - [SS Addons: Themes and Modules](https://addons.silverstripe.org) - The official module registry.
 - [SSMods: Detailed Module Search](http://ssmods.com) - Alternative module search.
 - [Most Used Modules](https://addons.silverstripe.org/add-ons?sort=relative) - Shows which modules are downloaded most.
+
+### Silverstripe 4 Recipes
+- [Silverstripe Recipes on Packagist](https://packagist.org/packages/silverstripe/recipe-plugin/dependents)
+
+### General Modules
 - [Multiuser editing alert](https://github.com/silverstripe/silverstripe-multiuser-editing-alert) -  Alerts users in the Silverstripe CMS when multiple people are editing the same page.
 
 ### I18N (Internationalisation)
@@ -91,7 +99,6 @@ Contributions welcome, please send a pull request or open an issue to start a di
 - [Searchable DataObjects](https://github.com/g4b0/silverstripe-searchable-dataobjects) -  Fast and simple MySQL based search. Useful for single language sites.
 
 ### Development Helpers
-- [SSPak](https://github.com/silverstripe/sspak) - Tool for managing bundles of db/assets from Silverstripe environments.
 - [Debugbar](https://github.com/lekoala/silverstripe-debugbar/) -  Shows debugging statistics in your browser.
 - [IdeAnnotator](https://github.com/silverleague/silverstripe-ideannotator) -  Auto-generates class annotations on dev/build.
 - [Populate](https://github.com/dnadesign/silverstripe-populate) -  Populate your database through YAML files.
@@ -100,8 +107,7 @@ Contributions welcome, please send a pull request or open an issue to start a di
 - [UserSwitcher](https://github.com/sheadawson/silverstripe-userswitcher) - Adds a small form both in the frontend and backend to quickly login as any user.
 - [Masquerade](https://github.com/dhensby/silverstripe-masquerade) -  Allows an Administrator to "login" as another "Member". This can be useful for debugging and remote support.
 
-### Silverstripe 4 Recipes
-- [Silverstripe Recipes on Packagist](https://packagist.org/packages/silverstripe/recipe-plugin/dependents)
+
 
 ### Fancy Form Fields
 - [Markdown Field](https://github.com/Silverstripers/markdownfield) -  Can replace your HTMLEditorFields (using TinyMCE) so you can utilise Markdown syntax.
