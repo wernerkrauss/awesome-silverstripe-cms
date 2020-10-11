@@ -21,7 +21,7 @@ Outdated items can be found in the [archive](ARCHIVE.md).
 - [Documentation](#documentation)
 - [Tutorials](#tutorials)
 - [Blogs](#blogs)
-- [Channels](#channels)
+- [Video Channels](#video-channels)
 - [Community](#community)
   - [Conferences & Meetups](#conferences--meetups)
 - [Very Useful Modules](#very-useful-modules)
@@ -64,7 +64,7 @@ Outdated items can be found in the [archive](ARCHIVE.md).
 - [Official Silverstripe Blog](https://www.silverstripe.org/blog/) - Contributions welcome!
 - [SilverStrip.es](http://www.silverstrip.es) - Useful findings of Silverstripe developers. Contributions welcome!
 
-## Channels
+## Video Channels
 - [Official StripeCon YouTube Channel](https://www.youtube.com/channel/UC38vU3H_UrdGFnc3vTJiORA) - Talks of various Silverstripe conferences.
 - [Official Silverstripe Vimeo Channel](https://vimeo.com/silverstripe) - Various videos from meetups and conferences.
 
