@@ -92,11 +92,16 @@ Outdated items can be found in the [archive](ARCHIVE.md).
 - [Fluent](https://github.com/tractorcow-farm/silverstripe-fluent) - Multi-language translate module for Silverstripe, without having to manage separate site trees.
 - [Autotranslate](https://github.com/bratiask/silverstripe-autotranslate) -  Creates automatic translations of fields using Google Translate API.
 
-### Site Search
-- [Fulltext Search](https://github.com/silverstripe/silverstripe-fulltextsearch) -  Full fledged search interface for search backends like SOLR or elastic search.
-- [Fulltext Search Local SOLR](https://addons.silverstripe.org/add-ons/silverstripe/fulltextsearch-localsolr) -  Easy to install SOLR instance for local development.
-- [Silverstripe Searchable](https://github.com/i-lateral/silverstripe-searchable) -  Adds more complex site searching using the Silverstripe ORM. With dedicated templates for search results across multiple search objects.
-- [Searchable DataObjects](https://github.com/g4b0/silverstripe-searchable-dataobjects) -  Fast and simple MySQL based search. Useful for single language sites.
+### Site Search 
+- [Silverstripe Searchable](https://github.com/i-lateral/silverstripe-searchable) - Adds more complex site searching using the Silverstripe ORM. With dedicated templates for search results across multiple search objects.
+- [Searchable DataObjects](https://github.com/g4b0/silverstripe-searchable-dataobjects) - Fast and simple MySQL based search. Useful for single language sites.
+
+#### Solr 4
+- [Fulltext Search](https://github.com/silverstripe/silverstripe-fulltextsearch) - Full fledged search interface for Solr4.
+- [Fulltext Search Local Solr](https://addons.silverstripe.org/add-ons/silverstripe/fulltextsearch-localsolr) - Easy to install Solr4 instance for local development.
+
+#### Newer Solr versions
+- [Solr search](https://github.com/firesphere/silverstripe-solr-search) - Full fledged search interface for Solr search, supporting up to the latest Solr version. It has submodules for e.g. transitioning from the "Fulltext Search" module mentioned above, as well as subsite, fluent and others.
 
 ### Development Helpers
 - [Debugbar](https://github.com/lekoala/silverstripe-debugbar/) -  Shows debugging statistics in your browser.
