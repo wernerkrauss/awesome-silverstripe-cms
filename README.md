@@ -2,7 +2,7 @@
 
 > Useful resources for Silverstripe Framework and CMS
 
-Silverstripe CMS is an open source PHP framework for building web applications. It is a rapid development MVC framework that serves as a classic fully fledged CMS or as a headless CMS, which can be queued either via GraphQL or a custom API.
+Silverstripe CMS is an open source PHP framework for building web applications. It is a rapid development MVC framework that serves as a classic fully fledged CMS or as a headless CMS, which can be queried either via GraphQL or a custom API.
 Following the "Active Record" design pattern, you can easily extend the built in functionality with a project specific data model.
 
 Contributions welcome, please send a pull request or open an issue to start a discussion.
