@@ -1,7 +1,7 @@
 # Awesome Silverstripe CMS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-<!--lint disable double-link-->
+<!--lint ignore double-link-->
 [<img src="images/logo-silverstripe-cms.png" align="right" width="200">](https://www.silverstripe.org/)
-<!--lint enable double-link-->
+
 > Useful resources for Silverstripe Framework and CMS
 
 Silverstripe CMS is an open source PHP framework for building web applications. It is a rapid development MVC framework that serves as a classic fully fledged CMS or as a headless CMS, which can be queried either via GraphQL or a custom API.
@@ -41,9 +41,8 @@ Outdated items can be found in the [archive](ARCHIVE.md).
 
 
 ## Official Websites
-<!--lint disable double-link-->
+<!--lint ignore double-link-->
 - [www.silverstripe.org](https://www.silverstripe.org) - Framework and CMS.
-<!--lint enable double-link-->
 - [www.silverstripe.com](https://www.silverstripe.com) - Silverstripe Ltd., the company behind the CMS.
 
 ## Tools
