@@ -117,6 +117,13 @@ Outdated items can be found in the [archive](ARCHIVE.md).
 - [PHPStorm / Webstorm Live Templates](https://github.com/northcreation-agency/silverstripe-php-web-storm-live-templates) - Shortcuts for adding various Silverstripe specific code snippets.
 
 ### Virtualisation
+
+#### Docker
+- [ddev setup](https://firesphere.dev/articles/ddevelopment-environment/) - Howto setup ddev for use with Silverstripe CMS
+- [brettt89/silverstripe-web](https://hub.docker.com/r/brettt89/silverstripe-web) -  Apache + PHP Docker image with pre-installed PHP modules for Silverstripe support.
+- [brettt89/sspak](https://hub.docker.com/r/brettt89/sspak) -  SSPak Docker image.
+- [brettt89/silverstripe-solr-cwp](https://hub.docker.com/r/brettt89/silverstripe-solr-cwp) -  CWP Solr Docker image.
+
 #### Vagrant
 There is no official box like Laravel has its homestead box. However, there are a few good boxes out there for Vagrant you could use:
 - [Twisted Bytes](https://www.twistedbytes.nl/en/blog/php-vagrant-box/) - Useful vagrant box with multiple PHP versions, MariaDB or PostgreSQL, mail catcher and much more.
@@ -125,8 +132,4 @@ There is no official box like Laravel has its homestead box. However, there are 
 - [Scotchbox](https://box.scotch.io) - Popular LAMP/LEMP stack for local development.
 - [Zauberfisch Vagrant Boxes](https://github.com/Zauberfisch/vagrant-boxes) -  Preconfigured Vagrant boxes for SS3 and SS4.
 
-#### Docker
 
-- [brettt89/silverstripe-web](https://hub.docker.com/r/brettt89/silverstripe-web) -  Apache + PHP Docker image with pre-installed PHP modules for SilverStripe support.
-- [brettt89/sspak](https://hub.docker.com/r/brettt89/sspak) -  SSPak Docker image.
-- [brettt89/silverstripe-solr-cwp](https://hub.docker.com/r/brettt89/silverstripe-solr-cwp) -  CWP Solr Docker image.
