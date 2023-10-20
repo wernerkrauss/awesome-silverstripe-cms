@@ -119,7 +119,7 @@ Outdated items can be found in the [archive](ARCHIVE.md).
 ### Virtualisation
 
 #### Docker
-- [ddev setup](https://firesphere.dev/articles/ddevelopment-environment/) - Howto setup ddev for use with Silverstripe CMS
+- [ddev setup](https://firesphere.dev/articles/ddevelopment-environment/) - Howto setup ddev for use with Silverstripe CMS.
 - [brettt89/silverstripe-web](https://hub.docker.com/r/brettt89/silverstripe-web) -  Apache + PHP Docker image with pre-installed PHP modules for Silverstripe support.
 - [brettt89/sspak](https://hub.docker.com/r/brettt89/sspak) -  SSPak Docker image.
 - [brettt89/silverstripe-solr-cwp](https://hub.docker.com/r/brettt89/silverstripe-solr-cwp) -  CWP Solr Docker image.
