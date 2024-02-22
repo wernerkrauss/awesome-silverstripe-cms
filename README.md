@@ -74,7 +74,6 @@ Outdated items can be found in the [archive](ARCHIVE.md).
 
 ## Very Useful Modules
 ### Module Listings
-- [SS Addons: Themes and Modules](https://addons.silverstripe.org) - The official module registry.
 - [SSMods: Detailed Module Search](http://ssmods.com) - Alternative module search.
 - [Most Used Modules](https://addons.silverstripe.org/add-ons?sort=relative) - Shows which modules are downloaded most.
 - [Silverstripe Recipes on Packagist](https://packagist.org/packages/silverstripe/recipe-plugin/dependents) - Preconfigured sets of modules for different kind of projects.
