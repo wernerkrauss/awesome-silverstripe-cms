@@ -13,7 +13,9 @@ SS3 only modules and resources will be moved here when SS3 is officially reached
 - [Community](#community)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
+## Very Useful Modules
+### Module Listings
+- [SS Addons: Themes and Modules](https://addons.silverstripe.org) - The official module registry.
 ## Community
 - [Slack Archive](https://slackarchive.silverstripe.org) - Archive of public slack channels. Doesn't work anymore due to API changes.
 ### Conferences & Meetups
