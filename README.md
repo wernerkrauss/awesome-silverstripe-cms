@@ -88,9 +88,11 @@ Outdated items can be found in the [archive](ARCHIVE.md).
 ### Site Search 
 - [Silverstripe Searchable](https://github.com/i-lateral/silverstripe-searchable) - Adds more complex site searching using the Silverstripe ORM. With dedicated templates for search results across multiple search objects.
 - [Searchable DataObjects](https://github.com/g4b0/silverstripe-searchable-dataobjects) - Fast and simple MySQL based search. Useful for single language sites.
+- [Solr search](https://github.com/firesphere/silverstripe-solr-search) - Interface for Solr search, supporting up to the latest Solr (9) version. With submodules for e.g. transitioning from the "Fulltext Search" module, as well as subsite, fluent and others.
+- [Elastic search](https://codeberg.org/firesphere/silverstripe-solr-search) - Interface for Elastic search, supporting up to the latest Elastic (4.15) version. Largely compatible with Solr search.
+- [Typesense search](https://codeberg.org/0x/silverstripe-typesense) - Interface for Typesense search, including CMS interface for editing/managing your collections.
 - [Fulltext Search](https://github.com/silverstripe/silverstripe-fulltextsearch) - Full fledged search interface for Solr4 (EOL).
 - [Fulltext Search Local Solr](https://addons.silverstripe.org/add-ons/silverstripe/fulltextsearch-localsolr) - Easy to install Solr4 (EOL) instance for local development.
-- [Solr search](https://github.com/firesphere/silverstripe-solr-search) - Interface for Solr search, supporting up to the latest Solr (9) version. With submodules for e.g. transitioning from the "Fulltext Search" module, as well as subsite, fluent and others.
 
 ### Development Helpers
 - [Debugbar](https://github.com/lekoala/silverstripe-debugbar/) -  Shows debugging statistics in your browser.
